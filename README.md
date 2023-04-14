@@ -6,7 +6,8 @@
 	<p>To execute everything correctly you just need to :</p>
 	<ul>
 		<li>Clone and download zip project.</li>
-		<li>Extract and open the project folder with Spring Tools</li>
+		<li>Extract and open the project folder (First Microservice) with Spring Tools</li>
+		<li>Run the eureka project and the Users microservices as Spring Boot App</li>
 	</ul>
 	<p>Some important links to deploy correctly the laboratory :</p>
 	<ul>
